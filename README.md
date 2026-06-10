@@ -107,28 +107,28 @@ The investigation followed a SOC-style workflow centered around:
 # Screenshots
 
 ### Splunk Data Ingestion
-![Splunk Data Ingestion](Screenshots/splunk-data-ingestion.png)
+![Splunk Data Ingestion](Screenshots/splunk-data-ingestion)
 
 ### Failed Login Events
-![Failed Login Events](Screenshots/failed-login-events.png)
+![Failed Login Events](Screenshots/failed-login-events)
 
 ### Failed Login Investigation Table
-![Failed Login Investigation Table](Screenshots/failed-login-investigation-table.png)
+![Failed Login Investigation Table](Screenshots/failed-login-investigation-table)
 
 ### Brute Force Detection Query
-![Brute Force Detection Query](Screenshots/brute-force-detection-query.png)
+![Brute Force Detection Query](Screenshots/brute-force-detection-query)
 
 ### PowerShell Activity Detection
-![PowerShell Activity Detection](Screenshots/powershell-activity-detection.png)
+![PowerShell Activity Detection](Screenshots/powershell-activity-detection)
 
 ### Encoded PowerShell Hunting
-![Encoded PowerShell Hunting](Screenshots/encoded-powershell-hunting.png)
+![Encoded PowerShell Hunting](Screenshots/encoded-powershell-hunting)
 
 ### Suspicious Process Analysis
-![Suspicious Process Analysis](Screenshots/suspicious-process-analysis.png)
+![Suspicious Process Analysis](Screenshots/suspicious-process-analysis)
 
 ### MITRE Technique Correlation
-![MITRE Technique Correlation](Screenshots/mitre-technique-correlation.png)
+![MITRE Technique Correlation](Screenshots/mitre-technique-correlation)
 
 
 ---
