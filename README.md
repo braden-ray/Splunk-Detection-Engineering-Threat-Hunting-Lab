@@ -1,7 +1,8 @@
 Splunk Detection Engineering & Threat Hunting Lab
 Overview
 This project focused on hands-on threat hunting and detection engineering using Splunk SIEM within a simulated Windows enterprise environment.
-During the investigation, I analyzed authentication logs, PowerShell activity, and Windows security telemetry to identify suspicious behavior, correlate indicators of compromise (IOCs), and develop SPL-based detection logic. The lab followed a SOC-style investigation workflow centered around log analysis, event correlation, threat hunting, and MITRE ATT&CK mapping.
+During the investigation, I analyzed authentication logs, PowerShell activity, and Windows security telemetry to identify suspicious behavior, correlate indicators of compromise (IOCs), and develop SPL-based detection logic.
+The lab followed a SOC-style investigation workflow centered around log analysis, event correlation, threat hunting, and MITRE ATT&CK mapping.
 
 Objectives
 Investigate suspicious activity using Splunk SPL queries
@@ -62,4 +63,3 @@ Windows Log Analysis
 Security Event Analysis
 MITRE ATT&CK Mapping
 Incident Documentation
-
