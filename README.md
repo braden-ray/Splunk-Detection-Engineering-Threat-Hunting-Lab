@@ -106,8 +106,10 @@ The investigation followed a SOC-style workflow centered around:
 
 # Screenshots
 
+# Screenshots
+
 ### Splunk Data Ingestion
-![Splunk Data Ingestion](Screenshots/splunk-data-ingestion)
+![Splunk Data Ingestion](Screenshots/Splunk-data-ingestion)
 
 ### Failed Login Events
 ![Failed Login Events](Screenshots/failed-login-events)
@@ -128,7 +130,8 @@ The investigation followed a SOC-style workflow centered around:
 ![Suspicious Process Analysis](Screenshots/suspicious-process-analysis)
 
 ### MITRE Technique Correlation
-![MITRE Technique Correlation](Screenshots/mitre-technique-correlation)
+![MITRE Technique Correlation](Screenshots/Mitre-technique-correlation)
+
 
 
 ---
