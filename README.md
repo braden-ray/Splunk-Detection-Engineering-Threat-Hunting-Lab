@@ -106,7 +106,30 @@ The investigation followed a SOC-style workflow centered around:
 
 # Screenshots
 
-Screenshots and investigation evidence will be uploaded throughout the project.
+### Splunk Data Ingestion
+![Splunk Data Ingestion](Screenshots/splunk-data-ingestion.png)
+
+### Failed Login Events
+![Failed Login Events](Screenshots/failed-login-events.png)
+
+### Failed Login Investigation Table
+![Failed Login Investigation Table](Screenshots/failed-login-investigation-table.png)
+
+### Brute Force Detection Query
+![Brute Force Detection Query](Screenshots/brute-force-detection-query.png)
+
+### PowerShell Activity Detection
+![PowerShell Activity Detection](Screenshots/powershell-activity-detection.png)
+
+### Encoded PowerShell Hunting
+![Encoded PowerShell Hunting](Screenshots/encoded-powershell-hunting.png)
+
+### Suspicious Process Analysis
+![Suspicious Process Analysis](Screenshots/suspicious-process-analysis.png)
+
+### MITRE Technique Correlation
+![MITRE Technique Correlation](Screenshots/mitre-technique-correlation.png)
+
 
 ---
 
